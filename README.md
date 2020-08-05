@@ -8,6 +8,6 @@
   
   <!-- <img src="https://raw.githubusercontent.com/youssefsiam38/youssefsiam38/master/github-readme-photo.jpg" align="right" width="27%"/> -->
 
-I'm a computer science student who fell in love with learning and writing software
+<p align="center">I'm a computer science student who fell in love with learning and writing software</p>
 
 <h3 align="center">enjoy my profile 🤗</h3>
