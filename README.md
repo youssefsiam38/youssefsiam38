@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/youssefsiam38"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://raw.githubusercontent.com/youssefsiam38/youssefsiam38/master/github-readme-photo.jpg" align="right" width="27%"/>
+  <!-- <img src="https://raw.githubusercontent.com/youssefsiam38/youssefsiam38/master/github-readme-photo.jpg" align="right" width="27%"/> -->
 
 I'm a computer science student who fell in love with learning and writing software
 
