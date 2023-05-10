@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Siam</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 📝 I regularly write articles on [joroutines.com](https://joroutines.com/)
+- 📝 I write @ [joroutines.com](https://joroutines.com/)
 
 
 - 📫 How to reach me **youssefsiam38@gmail.com**
